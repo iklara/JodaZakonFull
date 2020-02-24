@@ -34,7 +34,8 @@ public class MyJPanel extends JPanel {
 
 				System.out.println(" niezalogowano");
 			}
-
+ 
+			
 		}
 	}
 
